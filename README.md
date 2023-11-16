@@ -66,5 +66,3 @@ Tenho 16 anos, moro em limeira/SP e estou me aventurando no mundo da programa√ß√
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlon1402&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-![Snake animation](https://github.com/marlon1402/marlon1402/blob/output/github-contribution-grid-snake.svg)
