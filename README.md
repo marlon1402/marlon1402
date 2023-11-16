@@ -56,7 +56,7 @@ Tenho 16 anos, moro em limeira/SP e estou me aventurando no mundo da programa√ß√
 </br>
 
 <a href="https://www.instagram.com/marlon_s147" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/jmarlinksks" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://twitter.com/marlinksks" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/marlon-samuel-b68a74292/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 ##
