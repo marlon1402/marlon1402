@@ -22,7 +22,7 @@
 
 ## Hello, Guys!!
 
-Tenho 16 anos, moro em limeira/SP e estou me aventurando no mundo da programação! Comecei porque queria criar jogos mas acabei me viciando no mundo da tecnologia! ✌️
+Tenho 17 anos, moro em limeira/SP e estou me aventurando no mundo da programação! Comecei porque queria criar jogos mas acabei me viciando no mundo da tecnologia! ✌️
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
