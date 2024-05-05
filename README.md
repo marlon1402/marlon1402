@@ -37,6 +37,9 @@ Tenho 17 anos, moro em limeira/SP e estou me aventurando no mundo da programa√ß√
     <img align="center" alt="Marlon-MySql" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="Marlon-Git" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Marlon-Godot" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+    <img align="center" alt="Marlon-Flutter" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Marlon-HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
 </div>
 
 
