@@ -33,13 +33,15 @@ Tenho 17 anos, moro em limeira/SP e estou me aventurando no mundo da programa√ß√
 <img width="300px" align="right" src="https://i.ibb.co/7tqXrRJ/Avatar-Maker-1.png">
 <div style="display: inline_block"><br>
     <img align="center" alt="Marlon-Java" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="Marlon-Spring" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"" />
     <img align="center" alt="Marlon-C#" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Marlon-MySql" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="Marlon-Git" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Marlon-Godot" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
     <img align="center" alt="Marlon-Flutter" height="50" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
     <img align="center" alt="Marlon-HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
+    <img align="center" alt="Marlon-CSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="Marlon-JavaScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
 
