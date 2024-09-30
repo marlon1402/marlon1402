@@ -1,4 +1,4 @@
-<a href="https://ibb.co/C0dp0vN"><img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/9YXmY2z/Avatar-Maker.png" alt="Marlon-Avatar" border="0"></a>
+<a href="https://ibb.co/C0dp0vN"><img align="right" width="250px" style="margin-top:-20px; z-index:9999;" src="https://i.ibb.co/9YXmY2z/Avatar-Maker.png" alt="Marlon-Avatar" border="0"></a>
 
 </br>
 </br>
