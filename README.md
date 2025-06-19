@@ -48,10 +48,7 @@ Tenho 18 anos, moro em limeira/SP e estou me aventurando no mundo da programa√ß√
     <img align="center" alt="Marlon-Dart" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
     <img align="center" alt="Marlon-Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
     <img align="center" alt="Marlon-Postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
-          
-          
-          
+    <img align="center" alt="Marlon-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
 </div>
 
 
