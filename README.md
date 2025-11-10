@@ -1,19 +1,27 @@
-<a href="https://ibb.co/C0dp0vN"><img align="right" width="250px" style="margin-top:-20px; z-index:9999;" src="https://i.ibb.co/9YXmY2z/Avatar-Maker.png" alt="Marlon-Avatar" border="0"></a>
+<a href="https://ibb.co/C0dp0vN"> <img align="right" width="250px" src="https://i.ibb.co/9YXmY2z/Avatar-Maker.png" alt="Marlon-Avatar"
+       style="margin-top:-20px; margin-left:20px;">
+</a>
 
-</br>
-</br>
+<div style="display: inline-block; vertical-align: top;">
+  <h1 align="left" style="margin-bottom: 25px;">Marlon Samuel</h1>
 
-<div "display=inline-block;">
-
-<h1 align="left">Marlon Samuel</h1>
- <a href="https://www.instagram.com/marlon_s147/" target="_blank">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  <a href="https://www.instagram.com/marlon_s147/" target="_blank">
+    <img width="80px"
+         src="https://i.ibb.co/qkGSp1D/instagram.png"
+         alt="instagram"
+         style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/marlinksks" target="_blank">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+    <img width="80px"
+         src="https://i.ibb.co/ZcFHDpv/twitter.png"
+         alt="twitter"
+         style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/marlon-samuel-b68a74292/" target="_blank">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px"
+         src="https://i.ibb.co/RyZx12b/linkedin.png"
+         alt="linkedin"
+         style="vertical-align:top;">
   </a>
 </div>
 
