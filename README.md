@@ -3,7 +3,7 @@
 </br>
 </br>
 
-<div dsplay="inline-block">
+<div display="inline-block">
 
 <h1 align="left">Marlon Samuel</h1>
  <a href="https://www.instagram.com/marlon_s147/" target="_blank">
