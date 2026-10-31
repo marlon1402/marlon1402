@@ -1,88 +1,104 @@
-<a href="https://ibb.co/C0dp0vN"> <img align="right" width="250px" src="https://i.ibb.co/9YXmY2z/Avatar-Maker.png" alt="Marlon-Avatar"
-       style="margin-top:-20px; margin-left:20px;">
-</a>
 
-<div style="display: inline-block; vertical-align: top;">
-  <h1 align="left" style="margin-bottom: 25px;">Marlon Samuel</h1>
+<div align="center">
 
-  <a href="https://www.instagram.com/marlon_s147/" target="_blank">
-    <img width="80px"
-         src="https://i.ibb.co/qkGSp1D/instagram.png"
-         alt="instagram"
-         style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/marlinksks" target="_blank">
-    <img width="80px"
-         src="https://i.ibb.co/ZcFHDpv/twitter.png"
-         alt="twitter"
-         style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/marlon-samuel-b68a74292/" target="_blank">
-    <img width="80px"
-         src="https://i.ibb.co/RyZx12b/linkedin.png"
-         alt="linkedin"
-         style="vertical-align:top;">
-  </a>
+# Olá, eu sou Marlon Samuel! 👋
+
+### Desenvolvedor de Software | Flutter • Dart | Full Stack
+
+Transformo curiosidade em projetos reais, usando a prática como principal forma de aprendizado. Gosto de explorar ideias, aprender novas tecnologias e construir soluções que tenham propósito.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-samuel-b68a74292/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marlonsamuel.dev@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://marlon1402.github.io)
+
 </div>
 
-</br>
-</br>
+---
 
-## Hello, Guys!!
+## 👨‍💻 Sobre mim
 
-Tenho 19 anos, moro em limeira/SP e estou me aventurando no mundo da programação! Comecei porque queria criar jogos mas acabei me viciando no mundo da tecnologia! ✌️
+<img align="right" width="150" src="https://i.ibb.co/9YXmY2z/Avatar-Maker.png" alt="Avatar de Marlon">
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo COTIL.
+- 💻 Desenvolvedor com foco em aplicações **Web e Mobile**.
+- 📱 Experiência com Flutter e Dart no desenvolvimento de aplicações.
+- ⚙️ Conhecimentos em Java, Spring Boot, C# e .NET.
+- 🔌 Desenvolvimento e integração de APIs REST.
+- 🚀 Sempre explorando novas tecnologias e aprimorando minhas habilidades.
 
-### 🖥️ Tecnologias e Ferramentas: 
+<br clear="right">
 
-<img width="300px" align="right" src="https://i.ibb.co/7tqXrRJ/Avatar-Maker-1.png">
-<div style="display: inline_block"><br>
-    <img align="center" alt="Marlon-Java" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Marlon-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"" />
-    <img align="center" alt="Marlon-C#" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Marlon-MySql" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Marlon-Git" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Marlon-Godot" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-    <img align="center" alt="Marlon-Flutter" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Marlon-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" alt="Marlon-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" alt="Marlon-Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="Marlon-JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Marlon-Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-    <img align="center" alt="Marlon-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="Marlon-Dart" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-    <img align="center" alt="Marlon-Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-    <img align="center" alt="Marlon-Postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="Marlon-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+## 🛠️ Tecnologias e ferramentas
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Banco de dados e ferramentas**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 🎮 Além do código
+
+<img src="https://i.ibb.co/7tqXrRJ/Avatar-Maker-1.png" width="130" align="right" alt="Avatar secundário">
+
+Nem tudo é código por aqui! Também gosto de explorar mundos, completar desafios e descobrir novas possibilidades — dentro e fora dos jogos.
+
+![Minecraft](https://img.shields.io/badge/Minecraft-Fan-62A84F?style=flat-square&logo=minecraft&logoColor=white)
+![Games](https://img.shields.io/badge/Games-Player-8A63D2?style=flat-square&logo=steam&logoColor=white)
+![Aprendizado](https://img.shields.io/badge/Aprendizado-Constante-0A9B8E?style=flat-square)
+
+> Toda grande aventura começa com curiosidade.
+
+<br clear="all">
+
+## 🏆 Conquistas no GitHub
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marlon1402&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6)
+
 </div>
 
+## 📊 Estatísticas do GitHub
 
-</br>
-</br>
+<div align="center">
 
-<div display="inline-block">
- <p align="left">📚 Estou estudando atualmente Java e C#</p>
- <p align="left">🎮 Eu amo jogos, qualquer tipo de jogo, principalmente Minecraft.🏠</p>
- <p align="left">⛳🏁 Sou muito competitivo, e sempre me desafio para ficar melhor.</p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlon1402&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlon1402&layout=compact&langs_count=8&theme=algolia" alt="Linguagens mais utilizadas">
+
 </div>
 
-</br>
+---
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/marlon_s147) ou pelo [Twitter](https://twitter.com/marlinksks) e pode conhecer os meus projetos criados, que estão disponíveis aqui nos repositórios. (●'◡'●)
+<div align="center">
 
-</br>
+### 🚀 Pronto para a próxima missão?
 
-<a href="https://www.instagram.com/marlon_s147" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/marlinksks" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/marlon-samuel-b68a74292/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+**Vamos construir algo incrível juntos!**
 
-##
-<p align="center">
-<a href="https://github.com/marlon1402">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marlon1402&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marlon1402&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![Portfólio](https://img.shields.io/badge/Visite_meu_portfólio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marlon1402.github.io)
+
+<img width="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatinho digitando">
+
+</div>
