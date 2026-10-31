@@ -81,7 +81,7 @@ Nem tudo é código por aqui! Também gosto de explorar mundos, completar desafi
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marlon1402&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6)
+![GitHub Trophies](https://trophy.ryglcloud.net/?username=marlon1402&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6)
 
 </div>
 
