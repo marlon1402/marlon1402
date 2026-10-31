@@ -3,7 +3,7 @@
 
 # Olá, eu sou Marlon Samuel! 👋
 
-### Desenvolvedor de Software | Flutter • Dart | Full Stack
+### Software Developer | Flutter • Dart | Full Stack
 
 Transformo curiosidade em projetos reais, usando a prática como principal forma de aprendizado. Gosto de explorar ideias, aprender novas tecnologias e construir soluções que tenham propósito.
 
